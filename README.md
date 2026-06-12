@@ -35,6 +35,6 @@ Key metrics:
 - State Performance Analysis
 - Order Status Analysis
 
-Dashboard screenshot:
+📄 Download Dashboard PDF:
 
-(Olista_esd.pdf)
+[Olist Power BI Dashboard](Olista_esd.pdf)
