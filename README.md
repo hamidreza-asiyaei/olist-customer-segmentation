@@ -25,3 +25,6 @@ This project analyzes customer purchasing behavior using the Brazilian E-Commerc
 
 ## Dataset
 Brazilian E-Commerce Public Dataset by Olist
+## Visualization
+
+![Top States Revenue](top_states_revenue.png)
