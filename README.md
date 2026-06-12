@@ -34,7 +34,6 @@ Key metrics:
 - Product Category Analysis
 - State Performance Analysis
 - Order Status Analysis
-## Power BI Dashboard
 
 ![Dashboard](powerbi_dashboard.png)
 
