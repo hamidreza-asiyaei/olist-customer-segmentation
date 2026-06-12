@@ -23,3 +23,18 @@ Brazilian E-Commerce Public Dataset by Olist
 ## Visualization
 
 ![Top States Revenue](top_states_revenue.png)
+
+## Power BI Dashboard
+
+The dashboard was built using Power BI Desktop based on the Olist Brazilian E-Commerce Dataset.
+
+Key metrics:
+- Total Revenue: 13.59M
+- Total Orders: 112.65K
+- Product Category Analysis
+- State Performance Analysis
+- Order Status Analysis
+
+Dashboard screenshot:
+
+![Dashboard](dashboard.png)
