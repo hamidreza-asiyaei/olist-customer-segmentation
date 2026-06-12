@@ -1,30 +1,25 @@
-# Customer Segmentation Analysis
+# Olist Customer Segmentation Analysis
 
-## Project Overview
-This project analyzes customer purchasing behavior using the Brazilian E-Commerce Public Dataset by Olist.
+This project analyzes customer purchasing behavior using the Olist Brazilian E-Commerce Dataset.
 
-## Tools Used
+## Objectives
+
+- Identify high-value customers
+- Analyze customer spending patterns
+- Explore revenue distribution across Brazilian states
+- Create visualizations using Python
+
+## Technologies
+
 - Python
 - Pandas
 - Matplotlib
-
-## Analysis Performed
-- Customer spending analysis
-- Order frequency analysis
-- Revenue by state
-- Top customers identification
-
-## Outputs
-- customer_summary.csv
-- top_states_revenue.png
-
-## Key Insights
-- São Paulo (SP) generated the highest revenue.
-- A small number of customers contributed significantly to total sales.
-- Customer purchasing behavior can be used for segmentation and marketing strategies.
+- CSV Data Analysis
 
 ## Dataset
+
 Brazilian E-Commerce Public Dataset by Olist
+
 ## Visualization
 
 ![Top States Revenue](top_states_revenue.png)
