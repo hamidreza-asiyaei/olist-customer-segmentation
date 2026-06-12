@@ -37,4 +37,4 @@ Key metrics:
 
 Dashboard screenshot:
 
-![Dashboard](Olista_esd.pdf)
+(Olista_esd.pdf)
